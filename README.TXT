@@ -1,3 +1,4 @@
 SwS-Companion tool! Used to update / create dtrs!
 
-Place SwS-Companion, inside your EDMC plugins folder!
+In EDMC go to Settings, then plugins, from there clcik the open button, then put this whole folder into the plugins folder of EDMC. 
+
