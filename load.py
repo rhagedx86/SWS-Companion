@@ -62,3 +62,5 @@ def plugin_prefs(parent: nb.Notebook, cmdr: str, is_beta: bool) -> Optional[tk.F
     nb.Label(frame, text="Commander").grid()
     nb.Label(frame, text="This plugin aids in the creation of DTR's-v2!").grid()  
     return frame
+
+
